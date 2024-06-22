@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulwahid1999
-- 👀 I’m interested in C++ learnings
-- 🌱 I’m currently learning C++ 
+- 👀 I’m interested in C++, C#, Javascript learnings
+- 🌱 I’m currently learning C++, C#, Javascript
 - 💞️ I’m looking to collaborate on Game Dev, GUI, Arduino Development
 - 📫 How to reach me just go to my profile
 - 😄 Pronouns: ...
